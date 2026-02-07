@@ -35,7 +35,7 @@ O script foi modularizado para atacar diferentes gargalos do sistema:
 ### ⚠️ Notas de Desenvolvimento (WIP)
 
 - **Status**: Beta (Em desenvolvimento).
-- **Compatibilidade**: Testado em Windows 10 e 11.
+- **Compatibilidade**: Testado em Windows 11.
 - **Segurança**: Recomenda-se criar um Ponto de Restauração antes de aplicar as otimizações de Registro.
 
 ---
