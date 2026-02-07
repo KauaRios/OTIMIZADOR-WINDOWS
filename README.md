@@ -1,4 +1,4 @@
-# ⚡ Otimizador do Kauã (System Optimizer Tool)
+# ⚡ Otimizador  (System Optimizer Tool)
 
 Um utilitário de automação em **Batch Script** projetado para realizar a manutenção preventiva, limpeza de arquivos temporários e ajustes finos (tweaks) no Windows para ganho de performance em jogos e produtividade.
 
